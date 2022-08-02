@@ -3,43 +3,23 @@ Recognizing house number digits from street view images using Neural Networks. A
 
 
 
-## Projects 
-- Project 1: Identify which leads are more likely to convert to paid customers based on attributes of leads and their interaction details. 
-- Project 2: Forecast the stock prices for the next 24 months using time series.
+## Project
+Recognizing house number digits from street view images using Neural Networks.
 
 ### Skills and Tools
-Decision Trees, Random Forest, Time Series
+Artificial Neural Networks and Convolutional Neural Networks
 
+### Context
+One of the most interesting tasks in deep learning is to recognize objects in natural scenes. The ability to process visual information using machine learning algorithms can be very useful as demonstrated in various applications.
 
-### 1. Predicting Potential Customers - Decision Trees and Random Forest
+The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by Google to improve map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents.
 
-#### Context
-The EdTech industry has been surging in the past decade immensely, and according to a forecast, the Online Education market would be worth $286.62bn by 2023 with a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023. The modern era of online education has enforced a lot in its growth and expansion beyond any limit. Due to having many dominant features like ease of information sharing, personalized learning experience, transparency of assessment, etc, it is now preferable to traditional education.
+### Problem Statement
+Build a Artificial Neural Network and Convolutional Neural Network model that can identify the digits in the images.
 
-The online education sector has witnessed rapid growth and is attracting a lot of new customers. Due to this rapid growth, many new companies have emerged in this industry. With the availability and ease of use of digital marketing resources, companies can reach out to a wider audience with their offerings. The customers who show interest in these offerings are termed as leads. There are various sources of obtaining leads for Edtech companies, like
-- The customer interacts with the marketing front on social media or other online platforms.
-- The customer browses the website/app and downloads the brochure
-- The customer connects through emails for more information.
-- The company then nurtures these leads and tries to convert them to paid customers. For this, the representative from the organization connects with the lead on call or through email to share further details.
-
-#### Problem Statement
-ExtraaLearn is an initial stage startup that offers programs on cutting-edge technologies to students and professionals to help them upskill/reskill. With a large number of leads being generated on a regular basis, one of the issues faced by ExtraaLearn is to identify which of the leads are more likely to convert so that they can allocate resources accordingly. The following leads data has been provided:
-- Analyze and build an ML model to help identify which leads are more likely to convert to paid customers,
-- Find the factors driving the lead conversion process
-- Create a profile of the leads which are likely to convert
-
-### 2. Forecasting Stock Prices - Time Series
-
-#### Context
-Stocks are one of the most popular financial instruments invented for building wealth and are the centerpiece of any investment portfolio. Recent advances in trading technology have opened up stock markets in such a way that nowadays, nearly anybody can own stock.
-
-In the last few decades, there's been an explosive increase in the average person's interest for the stock market. This makes stock value prediction an interesting and popular problem to explore.
-
-#### Problem Statement
-Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions in North America as well as internationally. This dataset consists of monthly average stock closing prices of Amazon over a period of 12 years from 2006 to 2017. Build a time series model using the AR, MA, ARMA and ARIMA models in order to forecast the stock closing price of Amazon.
 
 ### Results
 All exploratory and inferential statistical analysis, visualization and clustering results are included in the following project notebooks:
-- Project 1: [Jupyter Notebook](Learner_Notebook_Classification_PDS.ipynb)  
-- Project 2: [Jupyter Notebook](Learner_Notebook_Project_Time_Series.ipynb) 
+- Artificial Neural Network Model: [Jupyter Notebook](NN_Project_Learner_Notebook_SVHN (1).ipynb)  
+- Convolutional Neural Network Model: [Jupyter Notebook](CNN_Project_Learner_Notebook_SVHN.ipynb) 
 
