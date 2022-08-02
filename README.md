@@ -20,6 +20,6 @@ Build a Artificial Neural Network and Convolutional Neural Network model that ca
 
 ### Results
 All exploratory and inferential statistical analysis, visualization and clustering results are included in the following project notebooks:
-- Artificial Neural Network Model: [Jupyter Notebook](NN_Project_Learner_Notebook_SVHN (1).ipynb)  
+- Artificial Neural Network Model: [Jupyter Notebook](NN_Project_Learner_Notebook_SVHN.ipynb)  
 - Convolutional Neural Network Model: [Jupyter Notebook](CNN_Project_Learner_Notebook_SVHN.ipynb) 
 
