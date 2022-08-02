@@ -1,8 +1,4 @@
 # 5_MIT_Deep_Learning
-Recognizing house number digits from street view images using Neural Networks. Artificial Neural Networks, Convolutional Neural Networks
-
-
-
 ## Project
 Recognizing house number digits from street view images using Neural Networks.
 
@@ -17,9 +13,8 @@ The SVHN dataset contains over 600,000 labeled digits cropped from street-level 
 ### Problem Statement
 Build an Artificial Neural Network and an Convolutional Neural Network model that can identify the digits in the images.
 
-
 ### Results
-All exploratory and inferential statistical analysis, visualization and clustering results are included in the following project notebooks:
+All exploratory and inferential statistical analysis, visualization and neural network models are included in the following project notebooks:
 - Artificial Neural Network Model: [Jupyter Notebook](NN_Project_Learner_Notebook_SVHN%20.ipynb)
 - Convolutional Neural Network Model: [Jupyter Notebook](CNN_Project_Learner_Notebook_SVHN.ipynb) 
 
