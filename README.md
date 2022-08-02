@@ -15,11 +15,11 @@ One of the most interesting tasks in deep learning is to recognize objects in na
 The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by Google to improve map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents.
 
 ### Problem Statement
-Build a Artificial Neural Network and Convolutional Neural Network model that can identify the digits in the images.
+Build an Artificial Neural Network and an Convolutional Neural Network model that can identify the digits in the images.
 
 
 ### Results
 All exploratory and inferential statistical analysis, visualization and clustering results are included in the following project notebooks:
-- Artificial Neural Network Model: [Jupyter Notebook]([NN_Project_Learner_Notebook_SVHN%20(1).ipynb]
+- Artificial Neural Network Model: [Jupyter Notebook]([NN_Project_Learner_Notebook_SVHN .ipynb]
 - Convolutional Neural Network Model: [Jupyter Notebook](CNN_Project_Learner_Notebook_SVHN.ipynb) 
 
